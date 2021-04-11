@@ -93,8 +93,7 @@ The target DBs are empty and the source DBs are populated with customers.
 
      
 
-See instructions on how to work with the TDM GUI in the following link:
-https://github.com/k2view-academy/K2View-Academy/blob/Academy_6.4/articles/TDM/tdm_gui/README.md
+See instructions on how to work with the TDM GUI in the following [link](/articles/TDM/tdm_gui/README.md).
 
 
 
