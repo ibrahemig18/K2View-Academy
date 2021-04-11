@@ -4,13 +4,33 @@
 
 The TDM demo project is based on PostgreSQL databases:
 
-
-| Source DBs (populated) | Target DBs (empty) |
-| ------ | ------ |
-| CRM    | CRM
-| Billing | Billing |
-| Ordering | Ordering |
-| Collection | Collection|
+<table>
+<tr>
+<td><strong>Database</strong></td>
+<td><strong>Source DBs (populated)</strong></td>
+<td><strong>Target DBs (empty)</strong></td>
+</tr>
+<tr>
+<td>CRM</td>
+<td>CRM_DB</td>
+<td>TAR_CRM_DB</td>
+</tr>
+<tr>
+<td>Billing</td>
+<td>BILLING_DB</td>
+<td>TAR_BILLING_DB</td>
+</tr>
+<tr>
+<td>Ordering</td>
+<td>ORDERING_DB</td>
+<td>TAR_ORDERING</td>
+</tr>
+<tr>
+<td>Collection</td>
+<td>COLLECTION_DB</td>
+<td>TAR_COLLECTION</td>
+</tr>
+</table>
 
 The target DBs are empty and the source DBs are populated with customers.
 
